@@ -8,6 +8,8 @@
   <title>myblog</title>
 </head>
 <body>
+  <header>
+  </header>
   <div class="container">
     <h1>Blog Posts</h1>
     <ul>
