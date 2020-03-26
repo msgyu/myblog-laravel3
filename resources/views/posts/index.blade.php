@@ -21,7 +21,6 @@
     </ul>
   </div>
   <footer>
-    <a href="">これが独立してある。</a>
   </footer>
 </body>
 </html>
